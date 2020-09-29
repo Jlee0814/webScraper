@@ -1,0 +1,5 @@
+
+Backend Springboot Mybatis jsoup
+create the database first/ or import them
+run MultiHtmlParse OR SingleHtmlParse function in the text package to scrape data to database
+run springboot application
